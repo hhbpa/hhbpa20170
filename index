@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Social Media Tools--Dylan M. Zachary* Index</title>
+	<meta charset="UTF-8" />
+ 	<link href="bpa.css" rel="stylesheet" type="text/css"/>
+ 	<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+</head>
+
+<body>
+<div id="box">
+  <img src="images/Bpa Logo.png" width="1077" height="250" alt="BPA"></header>
+  <header><h1> The Power Old to Gold</h1>
+<h3>Turn Trash into Treasure</h3>
+</header>
+<ul id="MenuBar2" class="MenuBarHorizontal">
+  <li><a href="who.html">About us</a>    </li>
+  <li><a href="step.html" class="MenuBarItemSubmenu">Project ideas</a>
+    <ul>
+      <li><a href="Tin Can.html">Tin Can </a></li>
+      <li><a href="Skids.html">Skid fireplace</a></li>
+      <li><a href="A.html">Screen door </a></li>
+      <li><a href="chalk.html">Shirt apron</a></li>
+    </ul>
+  </li>
+  <li><a href="photo1.html">advantages of Upcycling</a>    </li>
+</ul></li>
+</ul>
+</nav>
+
+<section>
+
+<p> In this world were after we use an item for its intended purpose that we feel like its trash and we think it has no value.<br>
+  In the world of DIY there are things that for one person they see it as trash, and others see it as you can turn it into treasure.
+  
+  <br>
+  Which concludes how the name<strong>old to gold</strong> was developed. For someones <strong> old </strong> trash, now it turns into<strong> Gold </strong> to the creative one.</p>
+<p>&nbsp;</p>
+<p><img src="images/GOLD.jpg" alt="GOLD" width="1070" height="336" align="lcenter"><br>
+<br>
+</p>
+<hr />
+<p style="text-align:center;">We would Highly enjoy seeing your own DYI's today
+</footer>
+</p>
+</div>
+<script type="text/javascript">
+var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
+
